@@ -1,0 +1,18 @@
+{
+  "name": "avms",
+  "type": "tools",
+  "version": "1.0.0",
+  "description": "avms包快速部署",
+  "keywords": [
+    "sunday",
+    "tools"
+  ],
+  "depend": [
+    "ssh://git@code.paic.com.cn:8009/yqb-travelpluginh5/car_board.git#login-jenkins",
+    "ssh://git@code.paic.com.cn:8009/yqb-travelpluginh5/car_board.git#login-avms"
+  ],
+  "bin": [
+    "avms"
+  ],
+  "author": "ct"
+}
