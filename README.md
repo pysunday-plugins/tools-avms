@@ -1,4 +1,4 @@
-# tools-elk
+# tools-avms
 
 sunday的tools插件，用于avms发包操作, 支持功能:
 
@@ -6,8 +6,6 @@ sunday的tools插件，用于avms发包操作, 支持功能:
 2. 自动从jenkins找最新包上传
 3. 本地包上传
 4. 删除或下线未发布的包
-
-依赖sunday，使用前请安装[sunday](https://code.paic.com.cn/#/repo/yqb-travelpluginh5/car_board/sunday/BRANCH/tree), 安装成功后执行`sunday_install ssh://git@code.paic.com.cn:8009/yqb-travelpluginh5/car_board.git#tools-avms`安装本插件
 
 ## avms
 
